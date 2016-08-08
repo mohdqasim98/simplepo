@@ -1,0 +1,7 @@
+{
+    "name": "mohdqasim98/simplepo",
+    "description": "Adding composer support to existing pacifists/simplepo repo$
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
